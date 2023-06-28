@@ -37,7 +37,7 @@ function App() {
   //for the value retrieve
   const titleHandler =(newTitle)=>{
     setTitle(newTitle.newTitle);
-    console.log(newTitle);
+    // console.log(newTitle);
   }
   
   return (
